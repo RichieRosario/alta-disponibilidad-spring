@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="alta-disponibilidad-spring:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/alta_disponibilidad_spring_jar</output-path>
+    <root id="archive" name="alta-disponibilidad-spring.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
